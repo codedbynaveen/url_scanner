@@ -1,6 +1,6 @@
 # url_scanner.py
 
-This tool extracts the sub-URLs from the URL that you provide.
+This tool extracts the sub-URLs from the URL that you provide and finds the vulnerabilities 
 
 ```
 cd url_scanner
